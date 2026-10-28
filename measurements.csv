@@ -1,0 +1,7 @@
+run_id,value,unit,uncertainty,qc
+R01,1000,mg,20,PASS
+R02,1.04,g,0.02,PASS
+R03,980000,ug,15000,PASS
+R04,1.5,g,0.03,FAIL
+R05,1020,mg,25,PASS
+R06,0.97,g,0.02,PASS

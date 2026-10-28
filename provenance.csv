@@ -1,0 +1,7 @@
+record_id,source_row,instrument_batch,provenance_status
+R01,1,B1,ACCEPT
+R02,2,B1,ACCEPT
+R03,3,B1,ACCEPT
+R04,4,B2,REJECT
+R05,5,B2,ACCEPT
+R06,6,B2,ACCEPT
